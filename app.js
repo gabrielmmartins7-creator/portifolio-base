@@ -9,15 +9,15 @@ const portfolio = {
         "nome": "Gabriel Marques",
         "cargo": "Estudante de Tecnologia | Desenvolvedor(a)",
         "resumo": "Apaixonado por resolver problemas com código, aprender novas tecnologias e construir projetos práticos.",
-        "foto": "./assets/avatar-placeholder.png",
+        "foto": "./assets/manel.jpg",
         "links": [
             {
                 "rotulo": "GitHub",
-                "url": "https://github.com"
+                "url": "https://github.com/gabrielmmartins7-creator"
             },
             {
-                "rotulo": "LinkedIn",
-                "url": "https://linkedin.com"
+                "rotulo": "Instagram",
+                "url": "https://www.instagram.com/biell_mrqs?evlk=ZzdkZTdzbzl0NWNj&utm_source=qr"
             }
         ]
     },
@@ -26,7 +26,7 @@ const portfolio = {
             "id": "sobre",
             "titulo": "Sobre mim",
             "tipo": "texto",
-            "conteudo": "Escreva aqui um parágrafo contando sua trajetória, interesses e o que você busca na área de tecnologia."
+            "conteudo": "Gosto muito da área tecnóloga e comecei meu curso técnico pelo SENAI em 2024, quero prosseguir na área futuramente para ampliar meus conhecimentos e aprimorar minhas habilidades"
         },
         {
             "id": "habilidades",
